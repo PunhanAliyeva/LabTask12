@@ -50,7 +50,6 @@ namespace LabTask4
         }
 
 
-
         static int DigitSum(int number)       
         {
             int sum = 0;
@@ -79,10 +78,6 @@ namespace LabTask4
             }
             return true;
         }
-
-
-
-
 
 
         //static void Fibonacci(int num)
